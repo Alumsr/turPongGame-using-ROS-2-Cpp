@@ -34,4 +34,4 @@ $ colcon build
 [0.611s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/lerane/turPong/install/turPong' in the environment variable CMAKE_PREFIX_PATH doesn't exist
 [0.611s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/lerane/turPong/install/interfaces' in the environment variable CMAKE_PREFIX_PATH doesn't exist
 ```
-- 如果两只龟同时长按控制, 有一边会卡住# turPongGame-using-ROS-2-Cpp
+- 如果两只龟同时长按控制, 有一边会卡住
